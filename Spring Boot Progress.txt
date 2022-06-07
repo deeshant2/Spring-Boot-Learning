@@ -1,0 +1,6 @@
+Spring Boot progress:
+
+1) Completed the "Learning Spring with Spring Boot" course LinkedIn Learning.
+2) Completed the "Spring Boot 2.0 Essential Training" course on LinkedIn Learning.
+3) Built a web application using Spring Boot.
+4) Went through a YouTube tutorial on Spring Boot concepts.
